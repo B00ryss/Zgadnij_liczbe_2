@@ -1,0 +1,14 @@
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/bin/Debug/net10.0/Zgadnij_Liczbe _2
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/bin/Debug/net10.0/Zgadnij_Liczbe _2.deps.json
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/bin/Debug/net10.0/Zgadnij_Liczbe _2.runtimeconfig.json
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/bin/Debug/net10.0/Zgadnij_Liczbe _2.dll
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/bin/Debug/net10.0/Zgadnij_Liczbe _2.pdb
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/Zgadnij_Liczbe _2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/Zgadnij_Liczbe _2.AssemblyInfoInputs.cache
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/Zgadnij_Liczbe _2.AssemblyInfo.cs
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/Zgadnij_Liczbe _2.csproj.CoreCompileInputs.cache
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/Zgadnij_Liczbe _2.dll
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/refint/Zgadnij_Liczbe _2.dll
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/Zgadnij_Liczbe _2.pdb
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/Zgadnij_Liczbe _2.genruntimeconfig.cache
+/Users/borysmachowski/Desktop/Programowanie/Zgadnij_Liczbe _2/obj/Debug/net10.0/ref/Zgadnij_Liczbe _2.dll

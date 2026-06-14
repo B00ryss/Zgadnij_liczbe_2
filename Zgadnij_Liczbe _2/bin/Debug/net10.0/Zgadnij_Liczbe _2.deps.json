@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Zgadnij_Liczbe _2/1.0.0": {
+        "runtime": {
+          "Zgadnij_Liczbe _2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zgadnij_Liczbe _2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
